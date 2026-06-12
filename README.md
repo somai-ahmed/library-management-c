@@ -196,6 +196,9 @@ library-management-c/
 
 ---
 
+> [!TIP]
+> This application is currently available only in French. All interfaces, messages, and content are provided in French.
+
 ## Conclusion
 
 This library management system in C is a complete and functional solution covering all essential library operations across three modules. The program meets all initial objectives:
