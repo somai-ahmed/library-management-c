@@ -142,7 +142,7 @@ Make sure you have the following installed before cloning the project:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/library-management-c.git
+git clone https://github.com/somai-ahmed/library-management-c.git
 cd library-management-c
 ```
 
