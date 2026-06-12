@@ -196,7 +196,7 @@ library-management-c/
 
 ---
 
-> [!TIP]
+> [!NOTE]
 > This application is currently available only in French. All interfaces, messages, and content are provided in French.
 
 ## Conclusion
