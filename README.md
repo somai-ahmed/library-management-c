@@ -150,7 +150,7 @@ cd library-management-c
 
 On Windows (MinGW / Code::Blocks):
 ```bash
-gcc -Wall -std=c11 -o library main.c
+gcc main.c -o library
 ```
 
 On Linux / macOS:
